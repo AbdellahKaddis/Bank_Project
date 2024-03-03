@@ -1,0 +1,8 @@
+1#//#Abdellah#//#Kaddis#//#20#//#male#//#2900
+
+2#//#mohammed#//#tariq#//#18#//#male#//#778
+
+3#//#Fatima#//#jounayd#//#24#//#female#//#10000
+
+101#//#Maher#//#zin#//#34#//#male#//#2000
+102#//#mohammed#//#salah#//#27#//#male#//#9876
